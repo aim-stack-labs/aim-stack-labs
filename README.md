@@ -3,6 +3,7 @@
 > Graphic Designer | Video Editor | Social Media Manager | Student at TEVTA LESC
 
 **About Me:**
+- 🎓 BS Information Technology (BSIT) - 3rd Semester @ Virtual University of Pakistan (VU)
 - 🎓 Full Stack Development Student at TEVTA LESC
 - 💼 Intern @ The Learning Hub College (TLHC) — Aug to Sep 2026
 - 🎨 Specialized in Canva Graphic Designing, Video Editing & Social Media Content Creation
