@@ -8,6 +8,12 @@
 - 💼 Intern @ The Learning Hub College (TLHC) — Aug to Sep 2026
 - 🎨 Specialized in Canva Graphic Designing, Video Editing & Social Media Content Creation
 
+  
+- ### 📜 Certifications & Achievements:
+- 🏢 **Office Management** - Certified in professional office management & MS Office tasks
+- 💻 **C++ Essentials** - Certified by Cisco Networking Academy - C++ Programming Fundamentals
+- 🌐 **Digital Literacy** - Certified by DigiSkills.pk - Digital Literacy Program
+
 **Experience @ TLHC:**
 Assisted Sports Department with graphic & post designing, video editing, MS Office tasks & social media management. Appreciated for creativity, professionalism & dedication.
 
