@@ -1,33 +1,29 @@
-### Hi, I'm Aiman — Creative Technologist | Full Stack Developer 
+# Hi there, I'm Aiman Sheikh 👋✨
 
-> Graphic Designer | Video Editor | Social Media Manager | Full Stack Developer from TEVTA LESC
+### 💖 Creative Graphic Designer | 🎬 Video Editor | 💻 Full Stack Developer
 
-**About Me:**
-- 🎓 BS Information Technology (BSIT) - 3rd Semester @ Virtual University of Pakistan (VU)
-- 🎓 Full Stack Developer from TEVTA LESC
-- 💼 Intern @ The Learning Hub College (TLHC) — Aug to Sep 2026
-- 🎨 Specialized in Canva Graphic Designing, Video Editing & Social Media Content Creation
+> Where Creativity Meets Code - Designing Dreams, Building Futures! 🌈
 
-  
-- ### 📜 Certifications & Achievements:
-### 💻 Full Stack Development - From TEVTA - LESC
-- 🌐 HTML
-- 🎨 CSS
-- 🅱️ Bootstrap
-- ⚡ JavaScript
-- 
-- 🏢 **Office Management** - Certified in professional office management & MS Office tasks
-- 💻 **C++ Essentials** - Certified by Cisco Networking Academy - C++ Programming Fundamentals
-- 🌐 **Digital Literacy** - Certified by DigiSkills.pk - Digital Literacy Program
+---
 
-**Experience @ TLHC:**
-Assisted Sports Department with graphic & post designing, video editing, MS Office tasks & social media management. Appreciated for creativity, professionalism & dedication.
+### 🌸 About Me
 
-**Skills & Learning:**
-`Graphic Designing | Video Editing | Social Media Management`
-`Full Stack Developer`
-`Tools: Canva | MS Office | Figma`
+👋 Hi! I'm **Aiman Sheikh** from **Gujranwala, Pakistan** 🇵🇰
 
-**Connect:**
-- 📍 Gujranwala, Pakistan
-- 📧 aimansheikh0607@gmail.com
+🎓 BSIT 3rd Semester Student @ **Virtual University of Pakistan**
+🎨 Creative Graphic Designer & Video Editor
+💻 Full Stack Developer in Progress
+🏫 TEVTA Certified - LESC Center
+💼 Freelancer | Working on Real Projects
+
+I love turning ideas into beautiful designs and powerful websites! ✨
+
+---
+
+### 🛠️ My Skills
+
+**🎨 Designing:**
+Canva | Photoshop | Illustrator | UI/UX Design | Social Media Posts | Logos
+
+**💻 Development:**
+HTML | CSS | JavaScript | Bootstrap | Git
